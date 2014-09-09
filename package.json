@@ -1,0 +1,19 @@
+{
+  "name": "APIDEMO",
+  "version": "0.0.0",
+  "description": "RESTful API para los servicios de CFE Móvil",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pretzel",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "method-override": "*",
+    "mongodb": "*",
+    "mongoose": "*"
+  }
+}
