@@ -9,4 +9,4 @@ RESTful API construida en NodeJS para proveer los servicios básicos para la apl
 ###Instalación
 Ejecutar desde la terminal el comando: **npm install** dentro del directorio principal del proyecto para instalar las dependencias
 
-###[Video Demo](bit.ly/1qBciNo "Evidencia de la propuesta") 
+###[Video Demo](https://bit.ly/1qBciNo "Evidencia de la propuesta") 
